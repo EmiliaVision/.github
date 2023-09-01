@@ -15,7 +15,8 @@ Discover the potential of voice-based large language models at Artisan Labs.
 
 Features
 ========
-* Voice-based Large Language Models
+* Voice-based Applications
+* Large Language Models
 * Sustainable Design
 * Cutting-edge Technology
 
