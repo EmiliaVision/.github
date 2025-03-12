@@ -10,7 +10,7 @@ Discover the potential of voice-based large language models at EmiliaVision.
 <br>
 
 <p align="center">
-  <img alt="Artisan Labs Example" src="https://github.com/ArtisanLabs/.github/raw/main/profile/assets/images/banners/arpagon__voice_waveforms_diagram_outline_an_illustration_on_bla_6c9d4e43-c8a1-42a3-b53c-c5038c961667_clipdrop-enhance.webp">
+  <img alt="EmiliaVision Example" src="https://github.com/ArtisanLabs/.github/raw/main/profile/assets/images/banners/arpagon__voice_waveforms_diagram_outline_an_illustration_on_bla_6c9d4e43-c8a1-42a3-b53c-c5038c961667_clipdrop-enhance.webp">
 </p>
 
 Features
