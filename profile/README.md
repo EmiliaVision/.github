@@ -2,11 +2,11 @@
   <a href="https://artisanlabs.io">
     <img src="https://github.com/ArtisanLabs/.github/raw/main/profile/assets/images/logo/artisanLogo_1690404109154_0.svg" alt="Artisan Labs" width=35>
   </a>
-  &nbsp;Artisan Labs&nbsp;
+  &nbsp;EmiliaVision&nbsp;
   <a href="https://artisanlabs.io"><img src=https://img.shields.io/badge/Artisan-Try%20Now-brightgreen.svg></a>
 </h1>
 
-Discover the potential of voice-based large language models at Artisan Labs.
+Discover the potential of voice-based large language models at EmiliaVision.
 <br>
 
 <p align="center">
@@ -21,7 +21,7 @@ Features
 
 Get Started
 ===========
-To explore Artisan Labs, click [HERE](https://artisanlabs.io).
+To explore Emilia Vision, click [HERE](https://emiliavision.com).
 
 <table>
   <tr>
